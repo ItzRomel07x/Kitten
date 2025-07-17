@@ -1,9 +1,20 @@
+const express = require('express'); // ✅ NEW: for HTTP server
 const { Client, GatewayIntentBits, Collection } = require('discord.js');
 const { joinVoiceChannel, getVoiceConnection } = require('@discordjs/voice');
 const fs = require('fs');
 const path = require('path');
 const logger = require('./utils/logger');
 const voiceService = require('./services/voice');
+
+// ✅ Start express server to prevent Render timeout
+const app = express();
+const PORT = process.env.PORT || 5000;
+app.get('/', (req, res) => {
+    res.send('Discord bot is running.');
+});
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Server running on port ${PORT}`);
+});
 
 // Create Discord client with necessary intents
 const client = new Client({
