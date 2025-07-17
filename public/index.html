@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexx - Discord TTS Announcer</title>
+    <meta name="description" content="A Discord voice channel announcer bot with TTS - bringing the classic Ventrilo experience to Discord">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Nexx</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#features">Features</a></li>
+                <li><a href="#commands">Commands</a></li>
+                <li><a href="#setup">Setup</a></li>
+                <li><a href="https://discord.com/oauth2/authorize?client_id=1371349914021531788&permissions=8&integration_type=0&scope=bot" target="_blank" class="nav-cta">Add to Server</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="particles-container">
+            <canvas id="particles"></canvas>
+        </div>
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1>Never Miss a Voice Channel Event</h1>
+                <p>Nexx brings the classic Ventrilo announcer experience to Discord. Get TTS announcements when users join or leave voice channels, with customizable phrases and multiple voice options.</p>
+                <div class="hero-buttons">
+                    <a href="https://discord.com/oauth2/authorize?client_id=1371349914021531788&permissions=8&integration_type=0&scope=bot" target="_blank" class="btn btn-primary">Add to Discord</a>
+                    <a href="#features" class="btn btn-secondary">Learn More</a>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="discord-mockup">
+                    <div class="mockup-header">
+                        <div class="mockup-controls">
+                            <span class="control close"></span>
+                            <span class="control minimize"></span>
+                            <span class="control maximize"></span>
+                        </div>
+                        <span class="mockup-title">Discord - Nexx</span>
+                    </div>
+                    <div class="mockup-content">
+                        <div class="voice-channel">
+                            <div class="channel-header">🔊 General Voice</div>
+                            <div class="user-list">
+                                <div class="user">
+                                    <div class="user-avatar">👤</div>
+                                    <span>John joined the channel</span>
+                                </div>
+                                <div class="user">
+                                    <div class="user-avatar nexx-bot">🤖</div>
+                                    <span>Nexx</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="chat-messages">
+                            <div class="message">
+                                <span class="username nexx-name">Nexx</span>
+                                <span class="message-text">🔊 Speaking: "John has joined the channel"</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section id="features" class="features">
+        <div class="container">
+            <h2>Powerful Voice Channel Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">🔊</div>
+                    <h3>Voice Announcements</h3>
+                    <p>Get TTS announcements when users join or leave voice channels. Never miss who's coming or going during your gaming sessions.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">💬</div>
+                    <h3>Custom Phrases</h3>
+                    <p>Personalize your join and leave messages. Set unique phrases for each user or use server-wide defaults.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎙️</div>
+                    <h3>230+ Voices</h3>
+                    <p>Choose from a wide variety of voices across 57 languages. From English to Japanese, find the perfect voice for your server.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">⚡</div>
+                    <h3>24/7 Operation</h3>
+                    <p>VoiceBot stays connected to your voice channels around the clock, ensuring you never miss an announcement.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🎛️</div>
+                    <h3>Speed Control</h3>
+                    <p>Adjust speech speed from 50% to 200% to match your preferences. Perfect for fast-paced gaming or relaxed conversations.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="feature-icon">🔄</div>
+                    <h3>Auto-Reconnect</h3>
+                    <p>Automatically rejoins your voice channels after restarts. Set it up once and forget about it.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="commands" class="commands">
+        <div class="container">
+            <h2>Easy to Use Commands</h2>
+            <div class="commands-grid">
+                <div class="command-category">
+                    <h3>Basic Commands</h3>
+                    <div class="command-list">
+                        <div class="command">
+                            <code>/join</code>
+                            <span>Join your voice channel</span>
+                        </div>
+                        <div class="command">
+                            <code>/leave</code>
+                            <span>Leave the voice channel</span>
+                        </div>
+                        <div class="command">
+                            <code>/say [text]</code>
+                            <span>Make the bot speak in voice chat</span>
+                        </div>
+                        <div class="command">
+                            <code>/test</code>
+                            <span>Test your announcement phrases</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="command-category">
+                    <h3>Customization</h3>
+                    <div class="command-list">
+                        <div class="command">
+                            <code>/phrase join [message]</code>
+                            <span>Set custom join phrase</span>
+                        </div>
+                        <div class="command">
+                            <code>/phrase leave [message]</code>
+                            <span>Set custom leave phrase</span>
+                        </div>
+                        <div class="command">
+                            <code>/voice set [voice]</code>
+                            <span>Choose your TTS voice</span>
+                        </div>
+                        <div class="command">
+                            <code>/voice speed [50-200]</code>
+                            <span>Adjust speech speed</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="setup" class="setup">
+        <div class="container">
+            <h2>Quick Setup Guide</h2>
+            <div class="setup-steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h3>Invite VoiceBot</h3>
+                        <p>Click the "Add to Discord" button and select your server. VoiceBot needs permissions to join voice channels and send messages.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h3>Join a Voice Channel</h3>
+                        <p>Use <code>/join</code> to make VoiceBot join your current voice channel. It will automatically start announcing user activity.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h3>Customize Your Experience</h3>
+                        <p>Set custom phrases with <code>/phrase</code>, choose your voice with <code>/voice set</code>, and adjust speed to your liking.</p>
+                    </div>
+                </div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                        <h3>Test & Enjoy</h3>
+                        <p>Use <code>/test</code> to hear your custom phrases, then enjoy seamless voice channel announcements!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="invite" class="invite-section">
+        <div class="container">
+            <div class="invite-content">
+                <h2>Ready to Enhance Your Discord?</h2>
+                <p>Add Nexx to your server and never miss a voice channel event again.</p>
+                <div class="invite-buttons">
+                    <a href="https://discord.com/oauth2/authorize?client_id=1371349914021531788&permissions=8&integration_type=0&scope=bot" target="_blank" class="btn btn-primary btn-large" id="invite-btn">Add to Discord</a>
+                    <p class="invite-note">Requires permissions: Connect, Speak, Send Messages</p>
+                    <div class="bot-status">
+                        <span class="status-indicator online"></span>
+                        <span>Bot is online and ready!</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Nexx</h3>
+                    <p>The ultimate Discord voice channel announcer bot</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Features</h4>
+                    <ul>
+                        <li>Voice Announcements</li>
+                        <li>Custom Phrases</li>
+                        <li>Multiple Voices</li>
+                        <li>24/7 Operation</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Support</h4>
+                    <ul>
+                        <li>Setup Guide</li>
+                        <li>Commands List</li>
+                        <li>Troubleshooting</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Legal</h4>
+                    <ul>
+                        <li>Privacy Policy</li>
+                        <li>Terms of Service</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Nexx. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,382 @@
+{
+  "voices": [
+    {
+      "id": "Joanna",
+      "name": "Joanna",
+      "language": "English (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Matthew",
+      "name": "Matthew",
+      "language": "English (US)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Amy",
+      "name": "Amy",
+      "language": "English (UK)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Brian",
+      "name": "Brian",
+      "language": "English (UK)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Emma",
+      "name": "Emma",
+      "language": "English (UK)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Olivia",
+      "name": "Olivia",
+      "language": "English (AU)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Aria",
+      "name": "Aria",
+      "language": "English (NZ)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Ayanda",
+      "name": "Ayanda",
+      "language": "English (ZA)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Ivy",
+      "name": "Ivy",
+      "language": "English (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Kendra",
+      "name": "Kendra",
+      "language": "English (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Kimberly",
+      "name": "Kimberly",
+      "language": "English (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Salli",
+      "name": "Salli",
+      "language": "English (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Joey",
+      "name": "Joey",
+      "language": "English (US)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Justin",
+      "name": "Justin",
+      "language": "English (US)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Kevin",
+      "name": "Kevin",
+      "language": "English (US)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Russell",
+      "name": "Russell",
+      "language": "English (AU)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Nicole",
+      "name": "Nicole",
+      "language": "English (AU)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Raveena",
+      "name": "Raveena",
+      "language": "English (IN)",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Geraint",
+      "name": "Geraint",
+      "language": "English (UK)",
+      "gender": "Male",
+      "type": "Standard"
+    },
+    {
+      "id": "Celine",
+      "name": "Celine",
+      "language": "French",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Mathieu",
+      "name": "Mathieu",
+      "language": "French",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Chantal",
+      "name": "Chantal",
+      "language": "French (CA)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Marlene",
+      "name": "Marlene",
+      "language": "German",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Hans",
+      "name": "Hans",
+      "language": "German",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Vicki",
+      "name": "Vicki",
+      "language": "German",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Aditi",
+      "name": "Aditi",
+      "language": "Hindi",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Carla",
+      "name": "Carla",
+      "language": "Italian",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Giorgio",
+      "name": "Giorgio",
+      "language": "Italian",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Bianca",
+      "name": "Bianca",
+      "language": "Italian",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Mizuki",
+      "name": "Mizuki",
+      "language": "Japanese",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Takumi",
+      "name": "Takumi",
+      "language": "Japanese",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Seoyeon",
+      "name": "Seoyeon",
+      "language": "Korean",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Conchita",
+      "name": "Conchita",
+      "language": "Spanish (ES)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Enrique",
+      "name": "Enrique",
+      "language": "Spanish (ES)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Penelope",
+      "name": "Penelope",
+      "language": "Spanish (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Miguel",
+      "name": "Miguel",
+      "language": "Spanish (US)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Lupe",
+      "name": "Lupe",
+      "language": "Spanish (US)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Mia",
+      "name": "Mia",
+      "language": "Spanish (MX)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Astrid",
+      "name": "Astrid",
+      "language": "Swedish",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Liv",
+      "name": "Liv",
+      "language": "Norwegian",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Naja",
+      "name": "Naja",
+      "language": "Danish",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Mads",
+      "name": "Mads",
+      "language": "Danish",
+      "gender": "Male",
+      "type": "Standard"
+    },
+    {
+      "id": "Ruben",
+      "name": "Ruben",
+      "language": "Dutch",
+      "gender": "Male",
+      "type": "Standard"
+    },
+    {
+      "id": "Lotte",
+      "name": "Lotte",
+      "language": "Dutch",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Jacek",
+      "name": "Jacek",
+      "language": "Polish",
+      "gender": "Male",
+      "type": "Standard"
+    },
+    {
+      "id": "Ewa",
+      "name": "Ewa",
+      "language": "Polish",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Maja",
+      "name": "Maja",
+      "language": "Polish",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Vitoria",
+      "name": "Vitoria",
+      "language": "Portuguese (BR)",
+      "gender": "Female",
+      "type": "Neural"
+    },
+    {
+      "id": "Ricardo",
+      "name": "Ricardo",
+      "language": "Portuguese (BR)",
+      "gender": "Male",
+      "type": "Neural"
+    },
+    {
+      "id": "Cristiano",
+      "name": "Cristiano",
+      "language": "Portuguese (PT)",
+      "gender": "Male",
+      "type": "Standard"
+    },
+    {
+      "id": "Ines",
+      "name": "Ines",
+      "language": "Portuguese (PT)",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Tatyana",
+      "name": "Tatyana",
+      "language": "Russian",
+      "gender": "Female",
+      "type": "Standard"
+    },
+    {
+      "id": "Maxim",
+      "name": "Maxim",
+      "language": "Russian",
+      "gender": "Male",
+      "type": "Standard"
+    },
+    {
+      "id": "Zhiyu",
+      "name": "Zhiyu",
+      "language": "Chinese (CN)",
+      "gender": "Female",
+      "type": "Standard"
+    }
+  ]
+}

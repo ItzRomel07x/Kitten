@@ -1,0 +1,439 @@
+[2025-07-16T16:25:19.571Z] [ERROR] No Discord token provided! Please set the DISCORD_TOKEN environment variable.
+[2025-07-16T16:29:29.741Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:29:29.743Z] [INFO] Connected to 2 servers
+[2025-07-16T16:29:29.744Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:29:29.745Z] [INFO] Serving 4 users across 2 servers
+[2025-07-16T16:30:34.765Z] [INFO] Landing page server started on port 5000
+[2025-07-16T16:30:34.768Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T16:34:22.779Z] [INFO] Started refreshing 6 application (/) commands.
+[2025-07-16T16:34:23.220Z] [INFO] Successfully reloaded 6 application (/) commands.
+[2025-07-16T16:37:14.026Z] [INFO] Successfully joined voice channel: Ll in guild: !!
+[2025-07-16T16:37:14.026Z] [INFO] Joined voice channel: Ll in guild: !!
+[2025-07-16T16:37:16.077Z] [INFO] Voice connection ready for guild: 1377720832729546964
+[2025-07-16T16:37:31.352Z] [ERROR] TTS generation failed:
+  Error: The security token included in the request is invalid.
+  Stack: UnrecognizedClientException: The security token included in the request is invalid.
+    at Object.extractError (/home/runner/workspace/node_modules/aws-sdk/lib/protocol/json.js:80:27)
+    at Request.extractError (/home/runner/workspace/node_modules/aws-sdk/lib/protocol/rest_json.js:62:8)
+    at Request.callListeners (/home/runner/workspace/node_modules/aws-sdk/lib/sequential_executor.js:106:20)
+    at Request.emit (/home/runner/workspace/node_modules/aws-sdk/lib/sequential_executor.js:78:10)
+    at Request.emit (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:686:14)
+    at Request.transition (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:22:10)
+    at AcceptorStateMachine.runTo (/home/runner/workspace/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/runner/workspace/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:38:9)
+    at Request.<anonymous> (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:688:12)
+[2025-07-16T16:37:31.352Z] [ERROR] Error with TTS command:
+  Error: The security token included in the request is invalid.
+  Stack: UnrecognizedClientException: The security token included in the request is invalid.
+    at Object.extractError (/home/runner/workspace/node_modules/aws-sdk/lib/protocol/json.js:80:27)
+    at Request.extractError (/home/runner/workspace/node_modules/aws-sdk/lib/protocol/rest_json.js:62:8)
+    at Request.callListeners (/home/runner/workspace/node_modules/aws-sdk/lib/sequential_executor.js:106:20)
+    at Request.emit (/home/runner/workspace/node_modules/aws-sdk/lib/sequential_executor.js:78:10)
+    at Request.emit (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:686:14)
+    at Request.transition (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:22:10)
+    at AcceptorStateMachine.runTo (/home/runner/workspace/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/runner/workspace/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:38:9)
+    at Request.<anonymous> (/home/runner/workspace/node_modules/aws-sdk/lib/request.js:688:12)
+[2025-07-16T16:39:28.643Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:39:28.644Z] [INFO] Connected to 3 servers
+[2025-07-16T16:39:28.645Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:39:28.646Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:42:24.343Z] [INFO] Landing page server started on port 5000
+[2025-07-16T16:42:24.346Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T16:42:26.272Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:42:26.274Z] [INFO] Connected to 3 servers
+[2025-07-16T16:42:26.275Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:42:26.275Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:43:37.206Z] [INFO] Landing page server started on port 5000
+[2025-07-16T16:43:37.210Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T16:43:39.398Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:43:39.400Z] [INFO] Connected to 3 servers
+[2025-07-16T16:43:39.401Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:43:39.401Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:46:08.928Z] [INFO] Landing page server started on port 5000
+[2025-07-16T16:46:08.930Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T16:46:11.646Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:46:11.648Z] [INFO] Connected to 3 servers
+[2025-07-16T16:46:11.649Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:46:11.649Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:46:15.450Z] [INFO] Successfully joined voice channel: Ll in guild: !!
+[2025-07-16T16:46:15.451Z] [INFO] Joined voice channel: Ll in guild: !!
+[2025-07-16T16:46:17.589Z] [INFO] Voice connection ready for guild: 1377720832729546964
+[2025-07-16T16:46:29.680Z] [INFO] Testing join phrase for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has joined the channel"
+[2025-07-16T16:46:29.817Z] [ERROR] Error processing audio queue:
+  Error: FFmpeg/avconv not found!
+  Stack: Error: FFmpeg/avconv not found!
+    at FFmpeg.getInfo (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:143:11)
+    at FFmpeg.create (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:156:38)
+    at new FFmpeg (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at Object.transformer (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2257:52)
+    at /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:58
+    at Array.map (<anonymous>)
+    at createAudioResource (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:39)
+    at VoiceService.processAudioQueue (/home/runner/workspace/services/voice.js:156:30)
+    at async VoiceService.playAudio (/home/runner/workspace/services/voice.js:123:17)
+    at async Object.execute (/home/runner/workspace/bot/commands/test.js:48:13)
+[2025-07-16T16:46:31.819Z] [INFO] Testing leave phrase for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has left the channel"
+[2025-07-16T16:46:31.929Z] [ERROR] Error processing audio queue:
+  Error: FFmpeg/avconv not found!
+  Stack: Error: FFmpeg/avconv not found!
+    at FFmpeg.getInfo (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:143:11)
+    at FFmpeg.create (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:156:38)
+    at new FFmpeg (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at Object.transformer (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2257:52)
+    at /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:58
+    at Array.map (<anonymous>)
+    at createAudioResource (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:39)
+    at VoiceService.processAudioQueue (/home/runner/workspace/services/voice.js:156:30)
+    at async VoiceService.playAudio (/home/runner/workspace/services/voice.js:123:17)
+    at async Object.execute (/home/runner/workspace/bot/commands/test.js:62:13)
+[2025-07-16T16:46:32.162Z] [INFO] User sccheats tested phrases in !!
+[2025-07-16T16:46:53.991Z] [ERROR] Error processing audio queue:
+  Error: FFmpeg/avconv not found!
+  Stack: Error: FFmpeg/avconv not found!
+    at FFmpeg.getInfo (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:143:11)
+    at FFmpeg.create (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:156:38)
+    at new FFmpeg (/home/runner/workspace/node_modules/prism-media/src/core/FFmpeg.js:45:27)
+    at Object.transformer (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2257:52)
+    at /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:58
+    at Array.map (<anonymous>)
+    at createAudioResource (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:39)
+    at VoiceService.processAudioQueue (/home/runner/workspace/services/voice.js:156:30)
+    at async VoiceService.playAudio (/home/runner/workspace/services/voice.js:123:17)
+    at async Object.execute (/home/runner/workspace/bot/commands/say.js:59:13)
+[2025-07-16T16:46:53.991Z] [INFO] TTS played in !!: "hello" with voice: Joanna
+[2025-07-16T16:47:02.750Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:47:02.752Z] [INFO] Connected to 3 servers
+[2025-07-16T16:47:02.753Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:47:02.753Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:49:54.567Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:49:54.569Z] [INFO] Connected to 3 servers
+[2025-07-16T16:49:54.570Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:49:54.570Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:50:47.021Z] [INFO] Successfully joined voice channel: Ll in guild: !!
+[2025-07-16T16:50:47.022Z] [INFO] Joined voice channel: Ll in guild: !!
+[2025-07-16T16:50:48.945Z] [INFO] Voice connection ready for guild: 1377720832729546964
+[2025-07-16T16:50:59.593Z] [ERROR] Error processing audio queue:
+  Error: Error: Cannot find module '@discordjs/opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'node-opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+  Stack: Error: Error: Cannot find module '@discordjs/opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'node-opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+    at Object.loader [as require] (/home/runner/workspace/node_modules/prism-media/src/util/loader.js:12:9)
+    at loadOpus (/home/runner/workspace/node_modules/prism-media/src/opus/Opus.js:17:17)
+    at new OpusStream (/home/runner/workspace/node_modules/prism-media/src/opus/Opus.js:46:10)
+    at new Encoder (/home/runner/workspace/node_modules/prism-media/src/opus/Opus.js:149:5)
+    at Object.transformer (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2233:47)
+    at /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:58
+    at Array.map (<anonymous>)
+    at createAudioResource (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:39)
+    at VoiceService.processAudioQueue (/home/runner/workspace/services/voice.js:156:30)
+    at async VoiceService.playAudio (/home/runner/workspace/services/voice.js:123:17)
+[2025-07-16T16:50:59.594Z] [INFO] TTS played in !!: "hiiii" with voice: Joanna
+[2025-07-16T16:51:10.971Z] [ERROR] Error processing audio queue:
+  Error: Error: Cannot find module '@discordjs/opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'node-opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+  Stack: Error: Error: Cannot find module '@discordjs/opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'node-opus'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+Error: Cannot find module 'opusscript'
+Require stack:
+- /home/runner/workspace/node_modules/prism-media/src/util/loader.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/Opus.js
+- /home/runner/workspace/node_modules/prism-media/src/opus/index.js
+- /home/runner/workspace/node_modules/prism-media/src/index.js
+- /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js
+- /home/runner/workspace/index.js
+    at Object.loader [as require] (/home/runner/workspace/node_modules/prism-media/src/util/loader.js:12:9)
+    at loadOpus (/home/runner/workspace/node_modules/prism-media/src/opus/Opus.js:17:17)
+    at new OpusStream (/home/runner/workspace/node_modules/prism-media/src/opus/Opus.js:46:10)
+    at new Encoder (/home/runner/workspace/node_modules/prism-media/src/opus/Opus.js:149:5)
+    at Object.transformer (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2233:47)
+    at /home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:58
+    at Array.map (<anonymous>)
+    at createAudioResource (/home/runner/workspace/node_modules/@discordjs/voice/dist/index.js:2462:39)
+    at VoiceService.processAudioQueue (/home/runner/workspace/services/voice.js:156:30)
+    at async VoiceService.playAudio (/home/runner/workspace/services/voice.js:123:17)
+[2025-07-16T16:51:10.972Z] [INFO] TTS played in !!: "hello" with voice: Joanna
+[2025-07-16T16:52:00.234Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:52:00.236Z] [INFO] Connected to 3 servers
+[2025-07-16T16:52:00.236Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:52:00.237Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:52:21.484Z] [INFO] Landing page server started on port 5000
+[2025-07-16T16:52:21.487Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T16:52:23.516Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:52:23.518Z] [INFO] Connected to 3 servers
+[2025-07-16T16:52:23.519Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:52:23.519Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T16:53:30.224Z] [INFO] Successfully joined voice channel: Ll in guild: !!
+[2025-07-16T16:53:30.225Z] [INFO] Joined voice channel: Ll in guild: !!
+[2025-07-16T16:53:32.248Z] [INFO] Voice connection ready for guild: 1377720832729546964
+[2025-07-16T16:53:39.467Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:53:39.469Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684819380.mp3 (6912 bytes)
+[2025-07-16T16:53:39.469Z] [INFO] TTS played in !!: "hello" with voice: Joanna
+[2025-07-16T16:53:39.637Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:53:40.608Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:53:49.217Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:53:49.218Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684829212.mp3 (6912 bytes)
+[2025-07-16T16:53:49.219Z] [INFO] TTS played in !!: "helloooooooo" with voice: Joanna
+[2025-07-16T16:53:49.267Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:53:50.238Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:54:08.950Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:54:08.950Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684848945.mp3 (12864 bytes)
+[2025-07-16T16:54:08.950Z] [INFO] TTS played in !!: "roja i love you" with voice: Joanna
+[2025-07-16T16:54:09.003Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:54:10.711Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:54:22.196Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:54:22.196Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684862191.mp3 (12864 bytes)
+[2025-07-16T16:54:22.196Z] [INFO] TTS played in !!: "sourav madarchod" with voice: Joanna
+[2025-07-16T16:54:22.248Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:54:23.957Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:54:32.761Z] [INFO] Testing join phrase for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has joined the channel"
+[2025-07-16T16:54:32.815Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:54:32.815Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684872808.mp3 (24960 bytes)
+[2025-07-16T16:54:32.868Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:54:34.815Z] [INFO] Testing leave phrase for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has left the channel"
+[2025-07-16T16:54:35.162Z] [INFO] User sccheats tested phrases in !!
+[2025-07-16T16:54:36.095Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:54:36.600Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:54:36.600Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684876595.mp3 (24576 bytes)
+[2025-07-16T16:54:36.648Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:54:39.821Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:54:54.166Z] [INFO] User left: sccheats in guild: !!
+[2025-07-16T16:54:54.175Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T16:54:54.176Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752684894166.mp3 (24576 bytes)
+[2025-07-16T16:54:54.176Z] [INFO] Leave announcement played for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has left the channel"
+[2025-07-16T16:54:54.241Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T16:54:57.416Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T16:58:30.015Z] [INFO] Landing page server started on port 5000
+[2025-07-16T16:58:30.018Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T16:58:33.043Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T16:58:33.044Z] [INFO] Connected to 3 servers
+[2025-07-16T16:58:33.045Z] [INFO] Configuration loaded successfully
+[2025-07-16T16:58:33.045Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:02:51.817Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:02:51.819Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:02:54.207Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:02:54.209Z] [INFO] Connected to 3 servers
+[2025-07-16T17:02:54.209Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:02:54.210Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:06:23.424Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:06:23.429Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:06:26.369Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:06:26.371Z] [INFO] Connected to 3 servers
+[2025-07-16T17:06:26.371Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:06:26.372Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:08:11.398Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:08:11.401Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:08:13.753Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:08:13.755Z] [INFO] Connected to 3 servers
+[2025-07-16T17:08:13.755Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:08:13.756Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:09:41.414Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:09:41.417Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:09:43.869Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:09:43.870Z] [INFO] Connected to 3 servers
+[2025-07-16T17:09:43.871Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:09:43.872Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:11:40.611Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:11:40.614Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:11:43.569Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:11:43.571Z] [INFO] Connected to 3 servers
+[2025-07-16T17:11:43.571Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:11:43.572Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:11:46.241Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:11:46.244Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:11:48.211Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:11:48.214Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:11:49.121Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:11:49.127Z] [INFO] Connected to 3 servers
+[2025-07-16T17:11:49.128Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:11:49.128Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:11:50.741Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:11:50.742Z] [INFO] Connected to 3 servers
+[2025-07-16T17:11:50.743Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:11:50.743Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:14:07.137Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:14:07.141Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:14:10.057Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:14:10.058Z] [INFO] Connected to 3 servers
+[2025-07-16T17:14:10.059Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:14:10.059Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:15:28.405Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:15:28.408Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:15:30.725Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:15:30.726Z] [INFO] Connected to 3 servers
+[2025-07-16T17:15:30.727Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:15:30.727Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:17:47.950Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:17:47.954Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:17:51.692Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:17:51.693Z] [INFO] Connected to 3 servers
+[2025-07-16T17:17:51.694Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:17:51.694Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:19:59.526Z] [INFO] Landing page server started on port 5000
+[2025-07-16T17:19:59.529Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T17:20:01.951Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T17:20:01.953Z] [INFO] Connected to 3 servers
+[2025-07-16T17:20:01.953Z] [INFO] Configuration loaded successfully
+[2025-07-16T17:20:01.954Z] [INFO] Serving 6 users across 3 servers
+[2025-07-16T17:21:05.710Z] [INFO] Successfully joined voice channel: Ll in guild: !!
+[2025-07-16T17:21:05.711Z] [INFO] Joined voice channel: Ll in guild: !!
+[2025-07-16T17:21:08.439Z] [INFO] Voice connection ready for guild: 1377720832729546964
+[2025-07-16T17:21:15.784Z] [INFO] Testing join phrase for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has joined the channel"
+[2025-07-16T17:21:15.979Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:21:15.980Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686475905.mp3 (24960 bytes)
+[2025-07-16T17:21:16.027Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:21:17.980Z] [INFO] Testing leave phrase for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has left the channel"
+[2025-07-16T17:21:18.305Z] [INFO] User sccheats tested phrases in !!
+[2025-07-16T17:21:19.240Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:21:19.747Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:21:19.748Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686479741.mp3 (24576 bytes)
+[2025-07-16T17:21:19.809Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:21:22.988Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:27.037Z] [INFO] User joined: quantum434 in guild: !!
+[2025-07-16T17:22:27.117Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:27.117Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686547112.mp3 (17088 bytes)
+[2025-07-16T17:22:27.117Z] [INFO] Join announcement played for quantum434: "Quantum has joined the channel"
+[2025-07-16T17:22:27.178Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:29.417Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:31.690Z] [INFO] User left: quantum434 in guild: !!
+[2025-07-16T17:22:31.787Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:31.787Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686551781.mp3 (16896 bytes)
+[2025-07-16T17:22:31.788Z] [INFO] Leave announcement played for quantum434: "Quantum has left the channel"
+[2025-07-16T17:22:31.869Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:34.068Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:37.061Z] [INFO] User joined: quantum434 in guild: !!
+[2025-07-16T17:22:37.067Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:37.067Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686557061.mp3 (17088 bytes)
+[2025-07-16T17:22:37.067Z] [INFO] Join announcement played for quantum434: "Quantum has joined the channel"
+[2025-07-16T17:22:37.124Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:39.348Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:40.107Z] [INFO] User left: quantum434 in guild: !!
+[2025-07-16T17:22:40.112Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:40.112Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686560107.mp3 (16896 bytes)
+[2025-07-16T17:22:40.113Z] [INFO] Leave announcement played for quantum434: "Quantum has left the channel"
+[2025-07-16T17:22:40.166Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:42.373Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:43.854Z] [INFO] User joined: quantum434 in guild: !!
+[2025-07-16T17:22:43.860Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:43.861Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686563855.mp3 (17088 bytes)
+[2025-07-16T17:22:43.861Z] [INFO] Join announcement played for quantum434: "Quantum has joined the channel"
+[2025-07-16T17:22:43.910Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:46.141Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:48.531Z] [INFO] User left: quantum434 in guild: !!
+[2025-07-16T17:22:48.536Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:48.536Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686568531.mp3 (16896 bytes)
+[2025-07-16T17:22:48.536Z] [INFO] Leave announcement played for quantum434: "Quantum has left the channel"
+[2025-07-16T17:22:48.586Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:50.796Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:53.741Z] [INFO] User joined: quantum434 in guild: !!
+[2025-07-16T17:22:53.746Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:53.746Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686573742.mp3 (17088 bytes)
+[2025-07-16T17:22:53.747Z] [INFO] Join announcement played for quantum434: "Quantum has joined the channel"
+[2025-07-16T17:22:53.796Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:22:56.026Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:22:58.798Z] [INFO] User left: quantum434 in guild: !!
+[2025-07-16T17:22:58.803Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:22:58.803Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686578798.mp3 (16896 bytes)
+[2025-07-16T17:22:58.803Z] [INFO] Leave announcement played for quantum434: "Quantum has left the channel"
+[2025-07-16T17:22:58.854Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:23:01.064Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T17:23:09.592Z] [INFO] User left: sccheats in guild: !!
+[2025-07-16T17:23:09.597Z] [INFO] Audio player buffering in guild: 1377720832729546964
+[2025-07-16T17:23:09.599Z] [INFO] Playing audio file: /home/runner/workspace/temp/audio_1377720832729546964_1752686589592.mp3 (24576 bytes)
+[2025-07-16T17:23:09.599Z] [INFO] Leave announcement played for sccheats: "𝗧𝗼𝘅𝗶𝗰 𝗣𝘆𝘁𝗵𝗼𝗻.زعيمزعيم has left the channel"
+[2025-07-16T17:23:09.649Z] [INFO] Audio player started playing in guild: 1377720832729546964
+[2025-07-16T17:23:12.818Z] [INFO] Audio player idle in guild: 1377720832729546964
+[2025-07-16T19:38:44.164Z] [INFO] Landing page server started on port 5000
+[2025-07-16T19:38:44.169Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-16T19:38:48.139Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-16T19:38:48.142Z] [INFO] Connected to 3 servers
+[2025-07-16T19:38:48.143Z] [INFO] Configuration loaded successfully
+[2025-07-16T19:38:48.143Z] [INFO] Serving 7 users across 3 servers
+[2025-07-17T06:34:05.033Z] [INFO] Landing page server started on port 5000
+[2025-07-17T06:34:05.072Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-17T06:34:08.254Z] [INFO] Bot logged in as FUCKED#4466
+[2025-07-17T06:34:08.255Z] [INFO] Connected to 3 servers
+[2025-07-17T06:34:08.256Z] [INFO] Configuration loaded successfully
+[2025-07-17T06:34:08.256Z] [INFO] Serving 7 users across 3 servers
