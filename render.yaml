@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: discord-tts-bot-web
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        generateValue: true
+
+  - type: worker
+    name: discord-tts-bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DISCORD_TOKEN
+        sync: false  # You'll set this manually in Render dashboard
+      - key: AWS_ACCESS_KEY_ID
+        sync: false  # Optional for AWS TTS
+      - key: AWS_SECRET_ACCESS_KEY
+        sync: false  # Optional for AWS TTS
+      - key: AWS_REGION
+        value: us-east-1

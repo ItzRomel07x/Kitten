@@ -437,3 +437,9 @@ Require stack:
 [2025-07-17T06:34:08.255Z] [INFO] Connected to 3 servers
 [2025-07-17T06:34:08.256Z] [INFO] Configuration loaded successfully
 [2025-07-17T06:34:08.256Z] [INFO] Serving 7 users across 3 servers
+[2025-07-17T06:45:00.364Z] [ERROR] No Discord token provided! Please set the DISCORD_TOKEN environment variable.
+[2025-07-17T06:45:43.453Z] [INFO] Landing page server started on port 5000
+[2025-07-17T06:45:43.455Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-17T06:46:24.884Z] [INFO] Landing page server started on port 5000
+[2025-07-17T06:46:24.887Z] [INFO] Visit http://localhost:5000 to view the landing page
+[2025-07-17T06:46:26.138Z] [ERROR] No Discord token provided! Please set the DISCORD_TOKEN environment variable.

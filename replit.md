@@ -104,6 +104,22 @@ The bot follows a modular architecture with clear separation of concerns:
 
 ## Deployment Strategy
 
+### Replit Deployment (Current)
+- Workflows manage both Discord bot and web server
+- Environment variables set via Replit Secrets
+- Automatic restarts and health monitoring
+
+### Render Deployment (Alternative)
+- See `RENDER_DEPLOYMENT.md` for complete guide
+- Uses `render.yaml` for automatic service configuration
+- Web service and background worker separation
+- Free tier available with sleep limitations
+
+## Recent Changes
+- **2025-07-17**: Migrated from Replit Agent to standard Replit environment
+- **2025-07-17**: Added Render deployment configuration
+- **2025-07-17**: Fixed package dependencies and workflow issues
+
 ### File Structure
 - Configuration files stored in `/config/`
 - Temporary audio files in `/temp/`
